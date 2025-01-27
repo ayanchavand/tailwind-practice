@@ -12,8 +12,10 @@ function App() {
           <button className="btn-primary">
             hii
           </button>
-
           <p className="font-bold text-3xl leading-relaxed">asdfsda askdfhsdjk</p>
+        </div>
+        <div className="text-center p-6 w-lg h-44 bg-slate-400 rounded-2xl border shadow-md ">
+          <h1>Name</h1>
         </div>
       </div>
     </>
