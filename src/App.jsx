@@ -9,7 +9,7 @@ function App() {
         <div className="text-center space-y-4">
           <h1 className="bg-amber-200 text-8xl ">TITLE</h1>
           <h2 className="bg-amber-200 text-2xl">SUBheading</h2>
-          <button className="bg-amber-700 h-8 rounded outline-1 outline-amber-300 hover:bg-amber-400 w-16">
+          <button className="btn-primary">
             hii
           </button>
 

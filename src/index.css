@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.btn-primary{
+  @apply bg-amber-700 h-8 rounded outline-1 outline-amber-300 hover:bg-amber-400 w-16;
+}
